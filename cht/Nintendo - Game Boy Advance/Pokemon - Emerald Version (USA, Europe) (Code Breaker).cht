@@ -295,3 +295,7 @@ cheat72_enable = false
 cheat73_desc = "Receive Symbol"
 cheat73_code = "D0000020+0004+83000E48+C330+D0000020+0004+83000E4A+0824+73000E48+C861+83000E48+99F1"
 cheat73_enable = false
+
+cheat74_desc = "Feebas"
+cheat74_code = "25214170 0AB256A2+FFA6733C EE552E68+2E7B7A58 D0781742+5A6F8EDD 049BA190"
+cheat74_enable = false
